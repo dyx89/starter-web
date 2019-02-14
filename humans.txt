@@ -9,6 +9,7 @@
 
     <name>
    Please leave a review if you like this course!
+   Bla bla
 
 # TECHNOLOGY COLOPHON
 
